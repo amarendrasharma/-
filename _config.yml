@@ -17,10 +17,8 @@ about: True # set to False or comment line if you want to remove the "How to use
 name: Amarendra Sharma
 tagline: Full Stack Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: ' I am an award-winning web developer with more than 10 years of well-rounded experience. My skills include HTML, CSS, LAMP development, and graphic design.
+I also have experience with SEO and online advertising. <a href="#" target="_blank">resume/CV template here</a>.'
 
 #sidebar links
 email: s.amarendra1995@gmail.com
