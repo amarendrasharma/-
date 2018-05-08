@@ -2,9 +2,9 @@ intro: "You can list your publications in this section. Lorem ipsum dolor
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 publications:
   - paper:
-    title: Customer Opinion from various E-commerce sitesusing Data Mining techniques: A Survey 
+    title: "Customer Opinion from various E-commerce sitesusing Data Mining techniques: A Survey" 
     authors: Pinky Saikia Dutta, Amarendra Sharma, Avishek Saha,Abhishek Sarmah,Jugal Kishor Talukdar
-    conference: IJCSE,Dec 09, 2016 
+    conference: "IJCSE,Dec 09, 2016" 
  # - paper:
  #   title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
  #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
